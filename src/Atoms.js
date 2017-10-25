@@ -21,3 +21,7 @@ export const EditButton = {onClick} => (
 export const DeleteButton = {onClick} => (
   <ButtonStyle className="fa-trash-o" onClick={onClick} />
 );
+
+export const Show = {onClick} => (
+  <ButtonStyle className="fa-trash-o" onClick={onClick} />
+);
